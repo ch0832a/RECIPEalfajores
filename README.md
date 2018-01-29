@@ -1,3 +1,5 @@
+Camille Hawit
+
 # web1-basic
 
 Starter files for intro web design/development
